@@ -1,0 +1,6 @@
+framework module VXFrameDemo {
+  umbrella header "VXFrameDemo.h"
+
+  export *
+  module * { export * }
+}
